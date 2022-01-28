@@ -1,4 +1,5 @@
 fun main(args: Array<String>) {
+    // MAD-105_Strings Assignment due 31-Jan-2022
     // Define questions and answers, they need to line-up ie: Q[1] => A[1]
     var Question = arrayOf("What sport hosts the Superbowl", "Name the NFL team from Chicago",
         "What NFL player is nicknamed the GOAT (last name only)", "Which city hosts the NFL Hall of Fame",
